@@ -10,16 +10,8 @@ The original UI design for this project 'chat/assets/UI Designs'
 1. clone the project
 2. yarn install
 3. yarn start
-### Live Test
-https://danlowochat-qgn5o.ondigitalocean.app/
+
 ### Video Preview
 (https://vimeo.com/586481180)
 
-### Note : Design only for mobile view
 
-![alt text](https://github.com/DanLowo/UI-UX-INTO-CODE/blob/chat/src/chat/assets/UI%20Designs/1.jpeg?raw=true)
-
-![alt text](https://github.com/DanLowo/UI-UX-INTO-CODE/blob/chat/src/chat/assets/UI%20Designs/2.jpeg?raw=true)
-
-![alt text](https://github.com/DanLowo/UI-UX-INTO-CODE/blob/chat/src/chat/assets/UI%20Designs/3.jpeg?raw=true)
-# chat-app
