@@ -6,6 +6,8 @@ Design inspired by Uchechukwu Ajalam (https://www.linkedin.com/in/uchechukwuajal
 
 The original UI design for this project 'chat/assets/UI Designs'
 
+### Live: https://unrivaled-quokka-fdbf26.netlify.app/
+
 ### Start Project
 1. clone the project
 2. yarn install
