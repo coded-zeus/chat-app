@@ -18,7 +18,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Crypto-Price-App:** https://github.com/coded-zeus/crypto-price-compare
 
-**Voice Controlled News App:** https://github.com/coded-zeus/oice-controlled-app
+**Voice Controlled News App:** https://github.com/coded-zeus/voice-controlled-app
 
 **Fiverr Clone:** https://github.com/coded-zeus/fiverr-clone
 
